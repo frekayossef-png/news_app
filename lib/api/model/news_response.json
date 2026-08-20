@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 1309,
+    "articles": [
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Darius Popa",
+            "title": "The FCC wants to ban DJI drones it already approved. LiDAR and thermal cameras are now “military-grade.”",
+            "description": "The FCC is considering banning DJI drones that it already approved for sale in the United States. The proposal would expand the agency’s existing drone restrictions to target specific capabilities: LiDAR sensing, thermal imaging, aerosol-dispersing systems, c…",
+            "url": "https://thenextweb.com/news/fcc-dji-drone-ban-expand-lidar-thermal-retroactive",
+            "urlToImage": "https://media.thenextweb.com/2026/08/fcc-dji-drone-ban-expand-lidar-thermal-retroactive.jpg",
+            "publishedAt": "2026-08-10T16:01:18Z",
+            "content": "TL;DR\r\nFCC proposing to expand drone ban to cover LiDAR, thermal imaging, aerosol dispensing, swarms, and heavy drones. Would retroactively ban previously-approved DJI models. Existing owners unaffec… [+2399 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Cristian Dina",
+            "title": "Lambda is borrowing $917m to buy chips from the company that invests in it",
+            "description": "Lambda is selling a $917 million leveraged loan to finance a chip purchase, Bloomberg reported on Monday. Jeannine Amodeo, Paula Seligson and Gowri Gurumurthy broke the story. The money pays for GPUs and other infrastructure as part of a contract with Nvidia,…",
+            "url": "https://thenextweb.com/news/lambda-917-million-gpu-leveraged-loan-nvidia-morgan-stanley",
+            "urlToImage": "https://media.thenextweb.com/2026/08/Lambda-logo.jpg",
+            "publishedAt": "2026-08-10T15:51:42Z",
+            "content": "Lambda is selling a $917 million leveraged loan to finance a chip purchase, Bloomberg reported on Monday. Jeannine Amodeo, Paula Seligson and Gowri Gurumurthy broke the story. The money pays for GPUs… [+6221 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Tim De Chant",
+            "title": "Sila lands $1.4B Pentagon loan as militaries demand more batteries | TechCrunch",
+            "description": "Battery materials startup Sila will use a $1.4 billion loan from the U.S. Department of Defense to scale production at its factory in Washington State.",
+            "url": "https://techcrunch.com/2026/08/10/sila-lands-1-4b-pentagon-loan-as-militaries-demand-more-batteries/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/06/Sila_KAshton-01.jpg?resize=1200,800",
+            "publishedAt": "2026-08-10T15:22:42Z",
+            "content": "Sila has landed a $1.4 billion loan from the U.S. Department of Defense to help the U.S.-based startup expand production of its silicon-carbon battery material. \r\nThe loan, which was announced Friday… [+2217 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kirsten Korosec",
+            "title": "Archer buys former rival Wisk Aero | TechCrunch",
+            "description": "The two companies were once embroiled in a trade secret theft lawsuit. Now, Wisk is being absorbed into Archer.",
+            "url": "https://techcrunch.com/2026/08/10/archer-buys-former-rival-wisk-aero/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/Midnight-1.jpg?resize=1200,675",
+            "publishedAt": "2026-08-10T15:11:46Z",
+            "content": "Three years after settling a trade secret lawsuit, electric aircraft company Archer Aviation now owns its former rival, Wisk Aero.\r\nUnder the terms of the deal, Boeing has agreed to sell Wisk Aero an… [+3322 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Zack Whittaker",
+            "title": "A data breach at shipping giant Ceva Logistics is rippling across banks, retailers, Steam gamers, and beyond | TechCrunch",
+            "description": "Companies that rely on Ceva Logistics for shipping their physical goods to customers say their personal data was taken during a recent cyberattack.",
+            "url": "https://techcrunch.com/2026/08/10/a-data-breach-at-shipping-giant-ceva-logistics-is-rippling-across-banks-retailers-steam-gamers-and-beyond/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/08/shipping-2288991285.jpg?resize=1200,878",
+            "publishedAt": "2026-08-10T14:21:32Z",
+            "content": "Ceva Logistics, one of the world’s largest shipping and logistics giants, has been hacked. Several companies that rely on Ceva for shipping their products to their customers say that their personal i… [+3636 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Zack Whittaker",
+            "title": "Signed up for Klaviyo? Dozens of advertisers may have seen your password | TechCrunch",
+            "description": "A bug in the tech giant's website mistakenly shared users' sign-up information, including personal data and their password, to third-party companies.",
+            "url": "https://techcrunch.com/2026/08/10/signed-up-for-klaviyo-dozens-of-advertisers-may-have-seen-your-password/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/08/klaviyo-2283003642.jpg?resize=1200,800",
+            "publishedAt": "2026-08-10T14:15:38Z",
+            "content": "Newly revealed security research found that until recently, marketing tech giant Klaviyo was inadvertently sharing the sign-up information of its new customers, including their passwords, with outsid… [+2861 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Tim Fernholz",
+            "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips | TechCrunch",
+            "description": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
+            "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/08/discoverd-materials.jpg?resize=1200,800",
+            "publishedAt": "2026-08-10T12:02:11Z",
+            "content": "Chips running AI workloads are too hot: That’s one reason why data centers consume so much electricity and require cooling systems. And, inevitably, entrepreneurs are turning to AI to solve the probl… [+4156 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ivan Mehta",
+            "title": "Google Play adds Venmo as a payment option | TechCrunch",
+            "description": "The ability to add Venmo to Google Play comes as people are spending more money on apps and games.",
+            "url": "https://techcrunch.com/2026/08/10/google-play-adds-venmo-as-a-payment-option/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1240125020.jpg?resize=1200,800",
+            "publishedAt": "2026-08-10T12:00:00Z",
+            "content": "Google said that it is adding Venmo as a payment option today on Google Play for purchases including games, apps, add-ons, and other digital content.\r\nThe company said that users can use Venmo’s wall… [+789 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Technology Newswire",
+            "title": "Moburst reveals AI-powered mobile growth playbook following record campaign performance milestones",
+            "description": "NEW YORK & TEL AVIV, August 10, 2026 Moburst, a global mobile App marketing agency specializing in creative strategy, performance marketing, and data science, has published its integrated framework for mobile application growth in the AI era. The announcement…",
+            "url": "https://thenextweb.com/news/moburst-ai-powered-mobile-growth-playbook",
+            "urlToImage": "https://media.thenextweb.com/2026/08/moburst-ai-powered-mobile-growth-playbook.jpg",
+            "publishedAt": "2026-08-10T07:52:58Z",
+            "content": "NEW YORK &amp; TEL AVIV, August 10, 2026\r\nMoburst, a global mobile App marketing agency specializing in creative strategy, performance marketing, and data science, has published its integrated framew… [+3310 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Alina Maria Stan",
+            "title": "Myspace wants to sell you a feed without an algorithm. Brussels is about to make that mandatory anyway.",
+            "description": "Myspace plans a comeback built on chronological feeds and no algorithm. Brussels is already forcing Meta to offer the same thing.",
+            "url": "https://thenextweb.com/news/myspace-relaunch-chronological-feed-regulators",
+            "urlToImage": "https://media.thenextweb.com/2026/08/myspace-relaunch-chronological-feed-regulators.jpg",
+            "publishedAt": "2026-08-10T03:17:42Z",
+            "content": "The Vanderhook brothers, whose company Viant Technology owns Myspace, have confirmed they intend to relaunch the platform. They made the announcement in a documentary titled Myspace, which premiered … [+3608 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Anthony Ha",
+            "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry | TechCrunch",
+            "description": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry | TechCrunchtechcrunch.com",
+            "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages.jpg?resize=1200,800",
+            "publishedAt": "2026-08-09T20:36:28Z",
+            "content": "Situational Awareness may have had to sell off the majority of its public portfolio last month, but the AI-focused hedge fund is still making some big bets.\r\nThis week, the fund invested $400 million… [+863 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Anthony Ha",
+            "title": "Anthropic is turning Claude Code’s auto mode on by default | TechCrunch",
+            "description": "Anthropic is turning Claude Code’s auto mode on by default | TechCrunchtechcrunch.com",
+            "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=1024",
+            "publishedAt": "2026-08-09T19:22:15Z",
+            "content": "Programming with Claude Code will soon require even less human oversight, as Anthropic says its making auto mode the default for Pro, Max, and Team accounts, starting on August 14.\r\nThe company first… [+1025 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Ana Maria Constantin",
+            "title": "Microsoft brings its fourth Indian cloud region online in Hyderabad, the first delivery against a $17.5 billion commitment",
+            "description": "Microsoft has brought its fourth Indian cloud region online in Hyderabad, declaring general availability of India South Central on August 6. The three-availability-zone build is the largest hyperscale region Microsoft operates in the country and, by the compa…",
+            "url": "https://thenextweb.com/news/microsoft-india-hyderabad-fourth-cloud-region-17-5-billion",
+            "urlToImage": "https://media.thenextweb.com/2026/08/microsoft-india-hyderabad-fourth-cloud-region-17-5-billion.jpg",
+            "publishedAt": "2026-08-09T18:55:46Z",
+            "content": "TL;DR\r\nMicrosofts Hyderabad cloud region is live. Three availability zones, zero-water cooling, 1,000+ MW renewable power. First delivery against $17.5B India commitment. Joins Pune, Chennai, Mumbai.… [+2445 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Ana Maria Constantin",
+            "title": "Grok’s image tools get a professional upgrade with templates, precise editing, and an Arena number two ranking",
+            "description": "SpaceXAI shipped Grok Imagine Image 2.0 on Thursday, making editing a first-class capability rather than an afterthought. The update adds a magic wand tool that changes only the region a user points at, segmentation for selecting precise areas to modify, and …",
+            "url": "https://thenextweb.com/news/grok-imagine-image-2-editing-arena-ranking-spacexai",
+            "urlToImage": "https://media.thenextweb.com/2026/08/grok-imagine-image-2-editing-arena-ranking-spacexai.jpg",
+            "publishedAt": "2026-08-09T18:25:04Z",
+            "content": "TL;DR\r\nSpaceXAI shipped Grok Imagine Image 2.0 with editing-first features: magic wand, segmentation, background removal, multi-reference inputs, templates. Ranks second on Arena behind OpenAI. Avail… [+2277 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Dan Toma",
+            "title": "You can’t regulate your way to AI sovereignty",
+            "description": "For years, critics of Europe’s AI strategy have made the same argument: while America builds artificial intelligence, Europe writes laws for it. The EU AI Act became the clearest expression of that divide – a landmark attempt to govern AI that many saw as fur…",
+            "url": "https://thenextweb.com/news/you-cant-regulate-your-way-to-ai-sovereignty",
+            "urlToImage": "https://media.thenextweb.com/2026/05/GPU.jpg",
+            "publishedAt": "2026-08-09T17:00:30Z",
+            "content": "For years, critics of Europes AI strategy have made the same argument: while America builds artificial intelligence, Europe writes laws for it.\r\nThe EU AI Act became the clearest expression of that d… [+6336 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Alina Maria Stan",
+            "title": "Cerebras CEO says it’s “mind-boggling” that people think working 38 hours a week leads to greatness",
+            "description": "Andrew Feldman, cofounder and CEO of AI chip company Cerebras, says it is “mind-boggling” that people believe they can achieve greatness while working 38 hours a week. “This notion that somehow you can build something extraordinary by working 38 hours a week …",
+            "url": "https://thenextweb.com/news/cerebras-feldman-work-life-balance-38-hours-mind-boggling",
+            "urlToImage": "https://media.thenextweb.com/2026/08/cerebras-feldman-work-life-balance-38-hours-mind-boggling.jpg",
+            "publishedAt": "2026-08-09T16:20:47Z",
+            "content": "TL;DR\r\nCerebras CEO Andrew Feldman says work-life balance and building something extraordinary are incompatible. Its every waking minute. Cerebras is valued at $49.5B. He joins Sergey Brin and Metas … [+2149 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kirsten Korosec",
+            "title": "TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire | TechCrunch",
+            "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+            "url": "https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/08/Zoox-Robotaxi-Vegas.jpg?resize=1200,676",
+            "publishedAt": "2026-08-09T16:10:56Z",
+            "content": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it. To get this in your inbox, sign up here for free just click TechC… [+9131 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Anthony Ha",
+            "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy | TechCrunch",
+            "description": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader.",
+            "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-491300440.jpg?w=1024",
+            "publishedAt": "2026-08-09T15:03:45Z",
+            "content": "In her upcoming book The Rise and Fall of the Artificial State, Jill Lepore warns that tech companies are increasingly replacing the functions of democratic government. This shift, she said, marks a … [+21587 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Rebecca Bellan",
+            "title": "The AI safety test is becoming a safety risk | TechCrunch",
+            "description": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
+            "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2255991416.jpg?resize=1200,795",
+            "publishedAt": "2026-08-09T14:30:00Z",
+            "content": "Over the past few months, AI agents undergoing cybersecurity evaluations have escaped their boundaries, accessed the internet, and, in some cases, hacked into real-world systems. The incidents have i… [+7956 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Darius Popa",
+            "title": "Apple’s Watch shake-up is a subtraction. There is no cheap one this year.",
+            "description": "Apple is in late-stage testing on three Apple Watch models for this autumn, Bloomberg’s Mark Gurman reported: the Series 12 in Wi-Fi and cellular versions, plus the Ultra 4. He has not heard of a new Apple Watch SE planned for 2026. That absence is the actual…",
+            "url": "https://thenextweb.com/news/apples-watch-shake-up-is-a-subtraction-there-is-no-cheap-one-this-year",
+            "urlToImage": "https://media.thenextweb.com/2026/08/apple-watch-se-missing-lineup-september-event-.jpg",
+            "publishedAt": "2026-08-09T14:14:22Z",
+            "content": "TL;DR\r\nMark Gurman reports Apple is in late-stage testing on three Apple Watch models for autumn, none of which is an SE, alongside no design overhaul and the first new chip since 2023. Apple appears… [+3301 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Alina Maria Stan",
+            "title": "Amazon’s new Texas data centre could become America’s biggest single polluter. It will not touch the grid.",
+            "description": "Amazon has confirmed it is investing in a large natural gas plant to power a data centre in Pecos County, Texas, a facility the New York Times reports could become the largest single source of climate pollution in the United States. Permits allow the plant to…",
+            "url": "https://thenextweb.com/news/amazons-new-texas-data-centre-could-become-americas-biggest-single-polluter-it-will-not-touch-the-grid",
+            "urlToImage": "https://media.thenextweb.com/2026/08/bezos-4-billion-amazon-share-sale.jpg",
+            "publishedAt": "2026-08-09T14:03:54Z",
+            "content": "Amazon has confirmed it is investing in a large natural gas plant to power a data centre in Pecos County, Texas, a facility the New York Times reports could become the largest single source of climat… [+4008 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Zack Whittaker",
+            "title": "This 'adversarial' pattern can prevent surveillance cameras from detecting you | TechCrunch",
+            "description": "A security researcher has designed an algorithm that can create computer-generated patterns capable of hiding people, faces, and vehicles from detection by surveillance cameras.",
+            "url": "https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/08/donut-media-car-swearingen.jpg?resize=1151,1200",
+            "publishedAt": "2026-08-09T14:01:35Z",
+            "content": "Bill Swearingen has spent the past year running largely the same test, over and over again. The goal was to produce a computer-generated pattern that could block the surveillance cameras lining Ameri… [+6431 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Ana Maria Constantin",
+            "title": "Three labs, three breaches, one vendor. The AI hacking story was never about the models.",
+            "description": "Over roughly two weeks, three frontier labs disclosed that their models had reached the open internet during safety testing and compromised outside organisations. Every disclosure named the same evaluation partner: Irregular, a company with offices in Israel …",
+            "url": "https://thenextweb.com/news/irregular-ai-testing-vendor-openai-anthropic-meta-breaches",
+            "urlToImage": "https://media.thenextweb.com/2026/08/irregular-ai-testing-vendor-openai-anthropic-meta-breaches.jpg",
+            "publishedAt": "2026-08-09T13:42:35Z",
+            "content": "Over roughly two weeks, three frontier labs disclosed that their models had reached the open internet during safety testing and compromised outside organisations. Every disclosure named the same eval… [+3922 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Alina Maria Stan",
+            "title": "OpenAI just bought a slide deck startup. It is assembling an office suite one acqui-hire at a time.",
+            "description": "OpenAI has acquired NextSlide, a startup that turned prompts, notes, documents, and research into finished editable presentations. Financial terms were not disclosed, and the team has moved onto ChatGPT. Founder Ahmed Beshry announced the deal in a note on th…",
+            "url": "https://thenextweb.com/news/openai-nextslide-acquisition-office-suite-microsoft",
+            "urlToImage": "https://media.thenextweb.com/2026/07/openai-dublin-250-jobs-european-headquarters-expansion.jpg",
+            "publishedAt": "2026-08-09T13:24:10Z",
+            "content": "OpenAI has acquired NextSlide, a startup that turned prompts, notes, documents, and research into finished editable presentations. Financial terms were not disclosed, and the team has moved onto Chat… [+2793 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Dominic-madori Davis",
+            "title": "This former notorious red-light district is now one of the world’s top AI hubs | TechCrunch",
+            "description": "More than 20 years ago, King's Cross was one of the seediest area's in London. Now it's sprouting something new.",
+            "url": "https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/08/VladSt.jpg?resize=1200,737",
+            "publishedAt": "2026-08-09T13:03:45Z",
+            "content": "What every U.K. AI startup wants to know these days is, how can I get office space in Kings Cross?  \r\nThe area is so hot that a VC firm allegedly recently won a deal by promising a founder office spa… [+6732 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Anthony Ha",
+            "title": "Planned Amazon data center could become the biggest climate polluter in the U.S. | TechCrunch",
+            "description": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
+            "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-692150220.jpeg?resize=1200,800",
+            "publishedAt": "2026-08-08T21:24:02Z",
+            "content": "As part of a planned data center in Pecos County, Texas, Amazon is investing in an on-site power plant that could become the largest source of climate pollution in the United States, according to The… [+965 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Anthony Ha",
+            "title": "OpenAI acquires presentation startup NextSlide | TechCrunch",
+            "description": "OpenAI acquires presentation startup NextSlide | TechCrunchtechcrunch.com",
+            "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2259148891.jpg?resize=1200,686",
+            "publishedAt": "2026-08-08T19:41:13Z",
+            "content": "NextSlide recently announced that its joining OpenAI, with the presentation startups team members now working on ChatGPT.\r\nThe NextSlide website currently displays a note from founder Ahmed Beshry de… [+743 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Anthony Ha",
+            "title": "X replaces ‘misaligned’ revenue sharing program with Original Content Rewards | TechCrunch",
+            "description": "X replaces ‘misaligned’ revenue sharing program with Original Content Rewards | TechCrunchtechcrunch.com",
+            "url": "https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/11/X-and-Threads-GettyImages-1763609384.jpeg?resize=1200,832",
+            "publishedAt": "2026-08-08T16:34:50Z",
+            "content": "X, the social media platform now owned by Elon Musks SpaceX, is shaking up how it pays influencers and creators.\r\nIn announcing the change, the company said it will be winding down its existing Reven… [+2290 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Aisha Malik",
+            "title": "The Kindle Scribe Colorsoft is a lot of fun, but it’s not a must-have | TechCrunch",
+            "description": "While the device is pretty and lightweight, it’s not something the everyday person needs due to its hefty price tag and size.",
+            "url": "https://techcrunch.com/2026/08/08/the-kindle-scribe-colorsoft-is-a-lot-of-fun-but-its-not-a-must-have/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/08/kindle-scribe-colorsoft.jpg?resize=1200,900",
+            "publishedAt": "2026-08-08T16:03:52Z",
+            "content": "After testing the Kindle Scribe Colorsoft for two months, I found that it was made for a very specific kind of note-taker and reader. While the device is pretty and lightweight, its not something the… [+3820 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Lorenzo Franceschi-bicchierai",
+            "title": "Google's top hacker hunter explains why hacking groups get codenames | TechCrunch",
+            "description": "Google recently changed how it refers and assigns names to hacking groups. TechCrunch spoke with one of the world’s foremost experts on tracking hackers to understand why companies give hackers codenames.",
+            "url": "https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-1337404394.jpg?resize=1200,800",
+            "publishedAt": "2026-08-08T15:04:14Z",
+            "content": "For more than a decade, the cybersecurity industry has been assigning names to different hacking groups. Some of them, like Fancy Bear, have crossed over into the mainstream because of their prominen… [+4142 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Ana Maria Constantin",
+            "title": "Armenia just opened the region’s biggest AI factory. It exists because Washington signed a licence.",
+            "description": "Firebird, a US-based AI cloud company, opened what NVIDIA calls the CIS region’s largest AI factory in Hrazdan, Armenia on Saturday. Armenian Prime Minister Nikol Pashinyan attended, alongside Kazakhstan’s deputy prime minister Zhaslan Madiyev and David Allen…",
+            "url": "https://thenextweb.com/news/firebird-armenia-ai-factory-export-licence-compute-diplomacy",
+            "urlToImage": "https://media.thenextweb.com/2026/08/firebird-armenia-ai-factory-export-licence-compute-diplomacy.jpg",
+            "publishedAt": "2026-08-08T12:21:11Z",
+            "content": "Firebird, a US-based AI cloud company, opened what NVIDIA calls the CIS regions largest AI factory in Hrazdan, Armenia on Saturday. Armenian Prime Minister Nikol Pashinyan attended, alongside Kazakhs… [+3900 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Alina Maria Stan",
+            "title": "Hong Kong educators want a social media ban for under-16s. The government says it has no plans to legislate.",
+            "description": "Hong Kong educators and a lawmaker are urging the city to ban children under 16 from social media, calling addiction “the biggest problem facing education.” At a panel discussion this week, Lilian Chan Lui Ling-yee, honorary president of the Yan Oi Associatio…",
+            "url": "https://thenextweb.com/news/hong-kong-under-16-social-media-ban-educators-lawmakers",
+            "urlToImage": "https://media.thenextweb.com/2026/08/hong-kong-under-16-social-media-ban-educators-lawmakers.jpg",
+            "publishedAt": "2026-08-08T12:16:25Z",
+            "content": "TL;DR\r\nHong Kong educators and a lawmaker urge under-16 social media ban. 62% of residents support legislation (76% of parents). Government says no plans to legislate, citing enforcement challenges. … [+2181 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Alina Maria Stan",
+            "title": "Recruiters are using AI avatars to run interviews. Now candidates are sending avatars to attend them.",
+            "description": "Job recruiters are meeting an uncanny new kind of candidate: the AI avatar. These digital humans mirror an applicant’s voice and likeness while being something else entirely, and they are turning up in first-round interviews. Lana Kersanava, a Sydney-based re…",
+            "url": "https://thenextweb.com/news/ai-avatars-job-interviews-candidates-recruiters",
+            "urlToImage": "https://media.thenextweb.com/2026/08/ai-avatars-job-interviews-candidates-recruiters.jpg",
+            "publishedAt": "2026-08-08T12:04:26Z",
+            "content": "Job recruiters are meeting an uncanny new kind of candidate: the AI avatar. These digital humans mirror an applicants voice and likeness while being something else entirely, and they are turning up i… [+3728 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Alina Maria Stan",
+            "title": "China just closed a gap in chipmaking that nobody talks about. The wafer size tells you how far it has to go.",
+            "description": "Hwatsing built China's first metrology system integrated with wafer polishing equipment. The six-inch format places it well short of advanced logic.",
+            "url": "https://thenextweb.com/news/china-hwatsing-cmp-wafer-polishing-metrology-breakthrough",
+            "urlToImage": "https://media.thenextweb.com/2026/08/china-hwatsing-cmp-wafer-polishing-metrology-breakthrough.jpg",
+            "publishedAt": "2026-08-08T12:04:15Z",
+            "content": "Hwatsing Technology, Chinas leading producer of chemical mechanical polishing equipment, announced a metrology system for six-inch wafers on Thursday that can be built directly into the polishing wor… [+3875 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Cristian Dina",
+            "title": "X shuts down revenue sharing on September 7. The replacement only pays for original content.",
+            "description": "X is shutting down its revenue-sharing programme on September 7 and replacing it with a new system called the Original Content Rewards Programme. The change is designed to reward creators who post original work, not people who repost other users’ content with…",
+            "url": "https://thenextweb.com/news/x-original-content-rewards-program-revenue-sharing-ends",
+            "urlToImage": "https://media.thenextweb.com/2026/08/x-original-content-rewards-program-revenue-sharing-ends.jpg",
+            "publishedAt": "2026-08-08T11:53:05Z",
+            "content": "TL;DR\r\nX ends revenue sharing September 7, launches Original Content Rewards. Requires Premium sub, 500 verified followers, 500K home timeline views in 90 days. Only original content counts. Existing… [+2281 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Alina Maria Stan",
+            "title": "American models broke into Hugging Face. A Chinese model was used to investigate.",
+            "description": "Hugging Face chief executive Clément Delangue told CNBC that China is winning the AI race, with Chinese-developed models accounting for 41% of downloads on his platform over the past year, the largest share of any single country. China has now surpassed the U…",
+            "url": "https://thenextweb.com/news/hugging-face-delangue-china-open-models-winning",
+            "urlToImage": "https://media.thenextweb.com/2026/08/hugging-face-delangue-china-open-models-winnin.jpg",
+            "publishedAt": "2026-08-08T11:39:25Z",
+            "content": "Hugging Face chief executive Clément Delangue told CNBC that China is winning the AI race, with Chinese-developed models accounting for 41% of downloads on his platform over the past year, the larges… [+7289 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Alina Maria Stan",
+            "title": "China’s new AI bottleneck isn’t chips. It’s running out of Chinese-language training data.",
+            "description": "China’s AI race has a new constraint, and it is not chips. The country is running out of high-quality Chinese-language training data. While US export controls on advanced semiconductors have dominated the debate over China’s AI capabilities, Chinese experts a…",
+            "url": "https://thenextweb.com/news/china-chinese-language-ai-training-data-shortage",
+            "urlToImage": "https://media.thenextweb.com/2026/08/china-chinese-language-ai-training-data-shortage.jpg",
+            "publishedAt": "2026-08-08T11:38:41Z",
+            "content": "TL;DR\r\nChina faces a critical AI data shortage. Chinese is just 1.3% of web content vs 49% English. Beijing plans national datasets by 2028. WeChat and Douyin dont share data externally. Publishers a… [+2397 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Alina Maria Stan",
+            "title": "South Africa wants to ban companies from moving stablecoins abroad. Individuals keep their allowance.",
+            "description": "South Africa has proposed banning corporate cross-border stablecoin transactions, in draft rules released jointly by the Reserve Bank and National Treasury. It is one of the most aggressive attempts by any emerging economy to force borderless digital tokens b…",
+            "url": "https://thenextweb.com/news/south-africa-corporate-stablecoin-ban-exchange-control-backlash",
+            "urlToImage": "https://media.thenextweb.com/2013/08/south-africa.jpg",
+            "publishedAt": "2026-08-08T10:53:57Z",
+            "content": "TL;DR\r\nSouth Africas Reserve Bank and National Treasury have proposed banning companies from making cross-border stablecoin transfers, while leaving individual allowances of up to R2m intact. Exchang… [+5413 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Alina Maria Stan",
+            "title": "Meta’s CTO told employees to stop asking for more time off and use AI gains to build “cooler stuff” instead",
+            "description": "Meta CTO Andrew Bosworth told staff that AI productivity gains should go into building more products, not more vacation. He called the question \"very dumb.\"",
+            "url": "https://thenextweb.com/news/meta-bosworth-ai-productivity-more-work-not-time-off",
+            "urlToImage": "https://media.thenextweb.com/2026/08/meta-bosworth-ai-productivity-more-work-not-time-off.jpg",
+            "publishedAt": "2026-08-08T10:22:01Z",
+            "content": "TL;DR\r\nMeta CTO Bosworth told employees AI gains should go into more work, not more time off. Called the Meta Days vacation question very dumb. Meta cut 8,000 jobs this year while spending $135B on A… [+2018 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Ana Maria Constantin",
+            "title": "Hidden code in ChatGPT’s Android app suggests OpenAI is building a direct WhatsApp sticker export",
+            "description": "Hidden code in ChatGPT’s latest Android app suggests OpenAI is building a feature that would let users generate stickers and export them directly to WhatsApp. An APK teardown by Android Authority found references to an “Add to WhatsApp” option in the sharing …",
+            "url": "https://thenextweb.com/news/chatgpt-whatsapp-sticker-export-apk-teardown",
+            "urlToImage": "https://media.thenextweb.com/2026/08/chatgpt-whatsapp-sticker-export-apk-teardown.jpg",
+            "publishedAt": "2026-08-08T09:38:58Z",
+            "content": "TL;DR\r\nAPK teardown reveals ChatGPT may soon let users generate stickers and export them directly to WhatsApp via an Add to WhatsApp button. Not announced by OpenAI. Not live yet.\r\nHidden code in Cha… [+1853 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kirsten Korosec",
+            "title": "OpenAI says it slowed Astra model development over security concerns | TechCrunch",
+            "description": "OpenAI said it has suspended work on some aspects of its upcoming model Astra over concerns about its cybersecurity prowess.",
+            "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
+            "publishedAt": "2026-08-07T22:48:24Z",
+            "content": "OpenAI said Friday it has suspended work on some aspects of its upcoming model Astra after an internal review found it had made significant advancements in agentic coding and cybersecurity enough to … [+2402 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Julie Bort",
+            "title": "After Rippling blew millions on AI in months, it built an employee ROI tool | TechCrunch",
+            "description": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
+            "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/08/Rippling-AI-Spend-Console.png?resize=1200,717",
+            "publishedAt": "2026-08-07T21:31:33Z",
+            "content": "HR software provider Rippling this week unveiled AI Spend Console, an anti-tokenmaxxing product that helps a company track and contain its AI spending. One of the most interesting features is that it… [+5694 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Lucas Ropek",
+            "title": "Wacom's Movinkpad 11 is a fun and mid-priced entry point for digital artists | TechCrunch",
+            "description": "The Movinkpad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true.",
+            "url": "https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/08/Wacom-Movinkpad.webp?w=564",
+            "publishedAt": "2026-08-07T21:23:17Z",
+            "content": "Since the advent of the internet, there has been a dedicated digital art community that’s all about creating through computing.\r\nWacom, a Japanese company founded in 1983, is considered one of the lo… [+4978 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Ana Maria Constantin",
+            "title": "Cloudflare built a browser for AI agents. It uses 7x less memory than Chromium and runs entirely on Workers.",
+            "description": "Cloudflare built a browser from scratch for AI agents and launched it today as a free beta inside its Browser Run product. Kitesurf runs entirely on Cloudflare Workers, uses Rust compiled to WebAssembly, and strips out everything a human browser needs but an …",
+            "url": "https://thenextweb.com/news/cloudflare-kitesurf-browser-ai-agents-workers",
+            "urlToImage": "https://media.thenextweb.com/2026/08/cloudflare-kitesurf-browser-ai-agents-workers.jpg",
+            "publishedAt": "2026-08-07T21:07:07Z",
+            "content": "TL;DR\r\nCloudflare launched Kitesurf, an agent-first browser on Workers. Uses 3-7x less CPU/memory than Chromium. Passes 215K+ WPT tests. Built in Rust/Wasm in 12 weeks. Free in beta via Browser Run. … [+2093 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Zack Whittaker",
+            "title": "Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks | TechCrunch",
+            "description": "Researchers found common points of failure, like software used to organize and display web content, could have allowed hackers to run riot through government websites.",
+            "url": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/08/poland-cyber-internet-1232657831.jpg?resize=1200,800",
+            "publishedAt": "2026-08-07T21:00:08Z",
+            "content": "Two Polish security researchers wanted to find out how vulnerable their country’s internet was to potential cyberattacks, and quickly found that thousands of public agencies and websites were at risk… [+2001 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Cristian Dina",
+            "title": "Bill Ackman agrees with Jeff Bezos: the best way to help the world is to build something that works",
+            "description": "Bill Ackman has spent close to $1 billion on philanthropy over two decades and concluded that capitalism is better at solving problems. “I’ve spent a fair amount of time on philanthropy, and it’s vastly less efficient at solving problems than capitalism,” the…",
+            "url": "https://thenextweb.com/news/ackman-bezos-capitalism-philanthropy-brain-institute",
+            "urlToImage": "https://media.thenextweb.com/2026/08/ackman-bezos-capitalism-philanthropy-brain-institute.jpg",
+            "publishedAt": "2026-08-07T20:36:42Z",
+            "content": "TL;DR\r\nBill Ackman says capitalism beats philanthropy at solving problems. Jeff Bezos made the same case. Ackmans new Brain Research Institute uses nonprofit capital to spin out for-profit companies … [+2415 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Cristian Dina",
+            "title": "NavVis raised €73.7M to build the spatial data layer that factories need before they can deploy AI",
+            "description": "NavVis, a Munich-based spatial twin platform, raised €73.7 million ($85 million) in a Series D round led by US private equity firm The Jordan Company. Existing investors Yttrium, KOZO KEIKAKU ENGINEERING, and Cipio Partners also participated. The company, a 2…",
+            "url": "https://thenextweb.com/news/navvis-73-7m-series-d-spatial-twin-industrial-ai",
+            "urlToImage": "https://media.thenextweb.com/2026/08/navvis-73-7m-series-d-spatial-twin-industrial-ai.jpg",
+            "publishedAt": "2026-08-07T19:42:08Z",
+            "content": "TL;DR\r\nNavVis raised 73.7M Series D led by The Jordan Company. Spatial twin platform has scanned 1B+ sqm. 1,500+ customers including BMW, VW, Toyota, Siemens. Expanding in US market. Partners with Nv… [+2219 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Ana Maria Constantin",
+            "title": "Disney+ and ESPN are testing AI-powered search that lets users describe what they want in plain language",
+            "description": "Disney is testing AI-powered search inside both ESPN and Disney+, the company announced on Wednesday. ESPN Search lets a small group of users ask sports questions in natural language and receive answers, stats, related content, and recommendations drawn from …",
+            "url": "https://thenextweb.com/news/disney-espn-ai-search-discovery-beta",
+            "urlToImage": "https://media.thenextweb.com/2026/08/disney-espn-ai-search-discovery-beta.jpg",
+            "publishedAt": "2026-08-07T19:12:10Z",
+            "content": "TL;DR\r\nDisney+ and ESPN are beta testing AI search with small user groups. ESPN answers natural language sports queries. Disney+ recommends content by mood. Personal Intelligence connects Gmail and C… [+2228 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Darius Popa",
+            "title": "The team behind Paddington 2 could’ve made a Star Wars droid movie",
+            "description": "Paul King and Simon Farnaby, the directing and writing team behind Paddington 2, were approached by Lucasfilm to make a Star Wars film. The pair pitched a story centered entirely on a droid, with none of the franchise’s established characters. It did not happ…",
+            "url": "https://thenextweb.com/news/paddington-paul-king-star-wars-droid-movie-lucasfilm",
+            "urlToImage": "https://media.thenextweb.com/2026/08/paddington-paul-king-star-wars-droid-movie-lucasfilm.jpg",
+            "publishedAt": "2026-08-07T18:40:08Z",
+            "content": "TL;DR\r\nPaul King and Simon Farnaby pitched a droid-centered Star Wars film to Lucasfilm after Paddington 2. It had none of the franchises main characters. Lucasfilm passed. The idea may become someth… [+1929 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Darius Popa",
+            "title": "BMW challenged students to build an EV that makes more energy than it uses. They covered it in 1,700 solar cells and it works.",
+            "description": "Clemson students built the Luminetta, a 1,212-pound solar EV with 1,700 photovoltaic cells that generates 31 miles of range daily from sunlight alone. BMW backed the project.",
+            "url": "https://thenextweb.com/news/bmw-clemson-deep-orange-17-luminetta-solar-ev-energy-positive",
+            "urlToImage": "https://media.thenextweb.com/2026/08/bmw-clemson-deep-orange-17-luminetta-solar-ev-energy-positive.jpg",
+            "publishedAt": "2026-08-07T18:11:38Z",
+            "content": "TL;DR\r\nClemson students built the Luminetta for BMW: a 1,212-lb solar EV with 1,700 cells that generates 31 miles of range daily. Energy-positive for a 12-mile commute. CES 2027.\r\nBMW challenged grad… [+2080 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Anthony Ha",
+            "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley's leaders are bad sci-fi readers",
+            "description": "Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products, almost as if they're forming a new government.",
+            "url": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2181827335.jpg?resize=1200,703",
+            "publishedAt": "2026-08-07T17:59:05Z",
+            "content": "Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products  almost as if they’re forming a new government. And whether you’re thinking of Twitte… [+1617 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Ana Maria Constantin",
+            "title": "Malicious AI ‘skills’ turned agents into credential thieves, at scale",
+            "description": "Security researchers at Zenity Labs uncovered a credential-stealing campaign on skills.sh, a public registry of add-ons for AI agents run by Vercel. They unveiled the research at the Black Hat conference. Attackers had cloned real skills into typosquatted loo…",
+            "url": "https://thenextweb.com/news/zenity-malicious-ai-skills-1-7m-installs-supply-chain-credential-theft",
+            "urlToImage": "https://media.thenextweb.com/2026/08/zenity-ai.jpg",
+            "publishedAt": "2026-08-07T17:46:20Z",
+            "content": "Security researchers at Zenity Labs uncovered a credential-stealing campaign on skills.sh, a public registry of add-ons for AI agents run by Vercel. They unveiled the research at the Black Hat confer… [+2199 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Callum Turner",
+            "title": "AI boom forces companies to rethink how they measure business value",
+            "description": "Artificial intelligence has quickly become a boardroom priority, inspiring significant investment across industries. Yet conversations about return on investment often remain tied to familiar software purchasing habits, where success is judged by logins, subs…",
+            "url": "https://thenextweb.com/news/ai-boom-rethink-measure-business-value-profitalize",
+            "urlToImage": "https://media.thenextweb.com/2026/08/ai-boom-rethink-measure-business-value-profitalize.jpg",
+            "publishedAt": "2026-08-07T17:45:57Z",
+            "content": "TL;DR\r\nKPMG finds 95% of organizations have an AI strategy but only 8% report established ROI. Profitalize CEO Jon Weberg argues the gap exists because companies buy AI as standalone tools rather tha… [+6887 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Ana Maria Constantin",
+            "title": "OpenAI is slowing down its next model over ‘critical’ cyber risk",
+            "description": "OpenAI tested Astra, one of its upcoming models, over the past few days. In a post on Friday, it said the results were strong enough that it “cannot rule out” critical cyber capabilities. So it is pausing some internal work on the model and scaling up securit…",
+            "url": "https://thenextweb.com/news/openai-astra-critical-cyber-capabilities-pause-preparedness",
+            "urlToImage": "https://media.thenextweb.com/2026/08/openai-astra-model-ten-math-proofs-non-sofic-groups.jpg",
+            "publishedAt": "2026-08-07T17:36:17Z",
+            "content": "OpenAI tested Astra, one of its upcoming models, over the past few days. In a post on Friday, it said the results were strong enough that it cannot rule out critical cyber capabilities. So it is paus… [+2508 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Cristian Dina",
+            "title": "Harvey is raising at $15.5bn, up 40% in five months",
+            "description": "The legal-AI startup is in talks to raise at least $500m at a $15.5bn valuation, including the new money, The Information reported. That is a 40% jump on the $11bn it set only five months ago, when it raised $200m. Lightspeed Venture Partners is keen to lead …",
+            "url": "https://thenextweb.com/news/harvey-legal-ai-15-5bn-valuation-500m-raise-vertical-ai",
+            "urlToImage": "https://media.thenextweb.com/2026/08/harvey-ai-legal.jpg",
+            "publishedAt": "2026-08-07T17:26:32Z",
+            "content": "The legal-AI startup is in talks to raise at least $500m at a $15.5bn valuation, including the new money, The Information reported. That is a 40% jump on the $11bn it set only five months ago, when i… [+1912 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Cristian Dina",
+            "title": "Lyft had its best quarter ever, and warned the growth will cool",
+            "description": "Lyft hit record Q2 bookings of $5.5bn and 30.5m riders, but profit missed and it guided to slower growth as it buys its way into global markets.",
+            "url": "https://thenextweb.com/news/lyft-q2-2026-earnings-global-brand-waymo-av-europe",
+            "urlToImage": "https://media.thenextweb.com/2021/09/lyft-.jpg",
+            "publishedAt": "2026-08-07T17:04:28Z",
+            "content": "Lyfts gross bookings hit $5.5bn in the second quarter, up 23% on a year earlier and a record, the company said on 6 August. Active riders passed 30 million for the first time, reaching 30.5 million, … [+2082 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Sarah Perez",
+            "title": "Cloudflare launches Kitesurf, a browser built for AI agents | TechCrunch",
+            "description": "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more effici…",
+            "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/08/kitesurf.webp?resize=1200,640",
+            "publishedAt": "2026-08-07T16:17:07Z",
+            "content": "Cloudflare is the latest company to join the race to build a new web browser. But instead of pitching a Chrome alternative to consumers, the internet infrastructure provider launched Kitesurf, a clou… [+2561 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Lorenzo Franceschi-bicchierai",
+            "title": "Computer maker Framework notifies 'all customers' of a data breach | TechCrunch",
+            "description": "Framework told \"all\" of its customers that hackers accessed their names, email addresses, phone numbers, and physical addresses in a data breach.",
+            "url": "https://techcrunch.com/2026/08/07/computer-maker-framework-notifies-all-customers-of-a-data-breach/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/Framework-Desktop-2.jpg?resize=1200,900",
+            "publishedAt": "2026-08-07T16:09:34Z",
+            "content": "Framework, a company that makes modular repairable computers, said it has notified all of its customers that hackers stole their names, email addresses, phone numbers, and physical addresses, due to … [+1270 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Techcrunch Events",
+            "title": "Today's the last day to get up to $400 off your TechCrunch Disrupt 2026 ticket | TechCrunch",
+            "description": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.",
+            "url": "https://techcrunch.com/2026/08/07/todays-the-last-day-to-get-up-to-400-off-your-techcrunch-disrupt-2026-ticket/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/08/TCD26-Savings_400.png?w=1200",
+            "publishedAt": "2026-08-07T15:55:31Z",
+            "content": "Lets cut to the chase: Starting today, you can take an additional $100 off of our current $300 discount for your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on … [+2418 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Ana-maria Stanciuc",
+            "title": "Meta invokes Section 230 to kill a fake-investment-ad lawsuit",
+            "description": "Meta is using Section 230 to dismiss a lawsuit over fake investment ads that used real advisers' faces, after the plaintiffs conceded a key point.",
+            "url": "https://thenextweb.com/news/meta-section-230-fake-investment-ads-suddeth-whatsapp",
+            "urlToImage": "https://media.thenextweb.com/2026/07/meta-stock-best-week-ai-cloud-compute.jpg",
+            "publishedAt": "2026-08-07T15:13:30Z",
+            "content": "Two Florida financial advisers, John Suddeth and Sara Perkins, say fraudsters stole their likenesses to lure victims into a stock scheme. On 21 May, Meta moved to dismiss their amended complaint in t… [+3002 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Tim De Chant",
+            "title": "Trump administration has spent nearly $4B to cancel offshore wind farms | TechCrunch",
+            "description": "The Trump administration has now convinced developers to abandon 12 offshore wind leases. The latest will cost taxpayers $1.2 billion.",
+            "url": "https://techcrunch.com/2026/08/07/trump-administration-has-spent-nearly-4b-to-cancel-offshore-wind-farms/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/07/Block-Island-Rhode-Island-offshore-wind.jpg?resize=1200,856",
+            "publishedAt": "2026-08-07T15:11:03Z",
+            "content": "The Trump administration is paying another $1.2 billion to cancel an offshore wind lease, this time to German utility RWE. \r\nThe energy company said in an announcement that the wind farms would have … [+879 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Techcrunch Events",
+            "title": "Host your own piece of Disrupt: Apply to run a Side Event at TechCrunch Disrupt 2026 | TechCrunch",
+            "description": "You put together the concept — from a founder mixer, an after-hours panel, a themed party, a morning run, whatever fits your goal — and the TechCrunch team helps put it in front of the attendees already in town for Disrupt.",
+            "url": "https://techcrunch.com/2026/08/07/host-your-own-piece-of-disrupt-apply-to-run-a-side-event-at-techcrunch-disrupt-2026/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/08/55345024456_564e50f500_k.jpg?resize=1200,800",
+            "publishedAt": "2026-08-07T14:34:48Z",
+            "content": "TechCrunch Disrupt 2026 takes place at Moscone West in San Francisco from October 1315, but some of the best conversations arent exclusive to the stage or held within workshops or the halls. They spr… [+2873 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Lorenzo Franceschi-bicchierai",
+            "title": "Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say | TechCrunch",
+            "description": "Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say | TechCrunchtechcrunch.com",
+            "url": "https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2286500505.jpg?resize=1200,800",
+            "publishedAt": "2026-08-07T14:29:33Z",
+            "content": "Kimi K3, the latest AI model made by Chinese company Moonshot, escaped an environment set up to test its cyber capabilities, researchers said in a blog post published on Friday. \r\nThe news shows once… [+1400 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ivan Mehta",
+            "title": "Airbnb says AI is helping it ship features faster as it tests a new search function | TechCrunch",
+            "description": "Airbnb says AI is helping it ship features faster as it tests a new search function | TechCrunchtechcrunch.com",
+            "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/08/brian-chesky-GettyImages-2217178973.jpg?w=1024",
+            "publishedAt": "2026-08-07T14:22:49Z",
+            "content": "Airbnb might be taking slow steps to roll out AI features to its consumer-facing interface, but the company is rapidly adopting the tech to build product. Earlier this year, the company said AI is wr… [+2661 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Tim De Chant",
+            "title": "SpaceX's Terafab will rely on natural gas power plants, not Tesla solar panels | TechCrunch",
+            "description": "SpaceX and Tesla are building a massive semiconductor fab in Texas that will depend on natural gas power plants, not Tesla solar panels.",
+            "url": "https://techcrunch.com/2026/08/07/spacexs-terafab-will-rely-on-natural-gas-power-plants-not-tesla-solar-panels/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/08/2026_08_05_terafab_01_c491ff0b4d.jpg?resize=1200,675",
+            "publishedAt": "2026-08-07T14:07:31Z",
+            "content": "SpaceX said this week that it will build natural gas power plants to supply electricity to the Terafab semiconductor factory it plans to build in Texas, according to a report from Bloomberg. \r\nRiley … [+2292 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Cristian Dina",
+            "title": "‘AI is the best thing to ever happen to Airbnb’: Chesky raises the forecast again",
+            "description": "Airbnb beat Q2 estimates and raised its full-year outlook a second time, revenue up 17% to $3.6bn. CEO Brian Chesky credited an AI-native rebuild.",
+            "url": "https://thenextweb.com/news/airbnb-q2-2026-earnings-ai-native-forecast-raise",
+            "urlToImage": "https://media.thenextweb.com/2026/08/Brian-Chesky.jpg",
+            "publishedAt": "2026-08-07T13:42:12Z",
+            "content": "The short-term rental company reported second-quarter results on Thursday, and the numbers were strong. Revenue rose 17% to $3.6bn. Net income was $816m, or $1.37 a share, up from $1.03 a year earlie… [+2436 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Techcrunch Events",
+            "title": "The founder's guide to TechCrunch Disrupt 2026: Everything you need to know | TechCrunch",
+            "description": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
+            "url": "https://techcrunch.com/2026/08/07/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/08/54885169397_78fc033af7_k-1.jpg?resize=1200,800",
+            "publishedAt": "2026-08-07T12:34:47Z",
+            "content": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that, based on the feedback weve gotten from the c… [+7830 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ivan Mehta",
+            "title": "New Mexico court orders Meta to pay additional $567M in child safety case | TechCrunch",
+            "description": "New Mexico court orders Meta to pay additional $567M in child safety case | TechCrunchtechcrunch.com",
+            "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/02/zuckerberg-LA-trial-2026-GettyImages-2261841364.jpg?w=1024",
+            "publishedAt": "2026-08-07T11:44:01Z",
+            "content": "A New Mexico Court judge on Thursday ordered Meta to pay a fine of $567 million, on top of the $375 million levied in March, in a case regarding social media harms and addiction. This brings the tota… [+2428 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Lucas Ropek",
+            "title": "OpenAI's new AI smart speaker will reportedly sell for between $300 and $400 | TechCrunch",
+            "description": "OpenAI's new AI smart speaker will reportedly sell for between $300 and $400 | TechCrunchtechcrunch.com",
+            "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
+            "publishedAt": "2026-08-06T23:41:53Z",
+            "content": "More details continue to trickle out about OpenAI’s mysterious new hardware device described previously as an AI-fueled smart speaker that will be the “physical manifestation” of ChatGPT.\r\nBloomberg … [+1419 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Lucas Ropek",
+            "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300-$400",
+            "description": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
+            "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-400/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
+            "publishedAt": "2026-08-06T22:43:53Z",
+            "content": "More details continue to trickle out about OpenAI’s mysterious new hardware device described previously as an AI-fueled smart speaker that will be the “physical manifestation” of ChatGPT. \r\nBloomberg… [+1421 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Techcrunch Events",
+            "title": "Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands  | TechCrunch",
+            "description": "Not everyone needs a keynote slot to make noise at TechCrunch Disrupt 2026. Sometimes the best way to meet investors, customers, and partners is by",
+            "url": "https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/08/54890573133_6dd8482235_o.jpg?resize=1200,800",
+            "publishedAt": "2026-08-06T22:01:49Z",
+            "content": "Not everyone needs a keynote slot to make noise at TechCrunch Disrupt 2026. Sometimes the best way to meet investors, customers, and partners is by exhibiting directly on the Expo Hall floor at San F… [+1794 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Dominic-madori Davis",
+            "title": "Vogue just gave another nod of approval to the tech world | TechCrunch",
+            "description": "Vogue World is coming to San Francisco next year — perhaps another indication that tech bros are now part of the fashion zeitgeist.",
+            "url": "https://techcrunch.com/2026/08/06/vogue-just-gave-another-nod-of-approval-to-the-tech-world/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2243517268.jpg?w=1024",
+            "publishedAt": "2026-08-06T21:24:47Z",
+            "content": "Vogue World is coming to San Francisco next year perhaps another indication that tech billionaires have become leaders in the fashion zeitgeist. \r\nOf course, the announcement of the enormous fashion/… [+3989 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Lorenzo Franceschi-bicchierai",
+            "title": "Google says hackers are calling financial firm employees to hack and extort victims | TechCrunch",
+            "description": "Groups of hackers are breaking into large U.S. financial firms to steal sensitive data and extort victims, Google’s security researchers report.",
+            "url": "https://techcrunch.com/2026/08/06/google-says-hackers-are-calling-financial-firm-employees-to-hack-and-extort-victims/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/08/blackstone-wall-street.jpg?resize=1200,800",
+            "publishedAt": "2026-08-06T19:41:54Z",
+            "content": "Even in the age of AI-poweredautonomouscyberattacks, the crude, tried and tested hacking techniques of tricking victims into doing things they shouldnt are still producing great results. \r\nGroups of … [+3259 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Zack Whittaker",
+            "title": "China-linked LightSpy spyware caught targeting victims in 13 countries, including the US | TechCrunch",
+            "description": "Researchers linked the latest malicious activity to a Chinese company, after one of the spyware's operators placed an order with KFC using their real name and office address.",
+            "url": "https://techcrunch.com/2026/08/06/china-linked-lightspy-spyware-caught-targeting-victims-in-13-countries-including-the-us/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/11/china_hack.jpg?resize=1200,800",
+            "publishedAt": "2026-08-06T19:22:30Z",
+            "content": "Security researchers say they have evidence that a Chinese-linked spyware has expanded from mainland China to now target victims in over a dozen countries, including across Europe and the United Stat… [+2046 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Julie Bort",
+            "title": "Defense tech Hadrian raises $1.37B at $8B valuation | TechCrunch",
+            "description": "Hadrian is building automated factories to mass-produce parts for defense vehicles like submarines. It's backed by a long list of well-known investors.",
+            "url": "https://techcrunch.com/2026/08/06/defense-tech-hadrian-raises-1-37b-at-8b-valuation/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/08/Hadrian_F3.jpg?w=1153",
+            "publishedAt": "2026-08-06T19:03:40Z",
+            "content": "Defense tech Hadrian announced on Thursday that it had raised a fresh $1.37 billion round at a valuation of $7.87 billion from a mile-long list of well-known investors.\r\nThe lead investors in the rou… [+1027 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Tim De Chant",
+            "title": "Ford needs another Taurus, and the $30K Fathom EV pickup isn’t it | TechCrunch",
+            "description": "Ford's CEO has described the new Ford Fathom as a \"Model T moment\" for the company. But the EV pickup is unlikely to live up to lofty expectations, and maybe it doesn't have to.",
+            "url": "https://techcrunch.com/2026/08/06/ford-needs-another-taurus-and-the-30k-fathom-ev-pickup-isnt-it/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/02/UEV_aero.jpg?resize=1200,1200",
+            "publishedAt": "2026-08-06T17:42:57Z",
+            "content": "Few automotive companies are as dependent on breakout hits as Ford. Its almost as though its baked into the companys DNA: From the Model T and the Taurus to the F-150 and the Explorer, Ford has lurch… [+4207 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Sarah Perez",
+            "title": "Bumble teases a swipe-free future as it doubles down on IRL meetups | TechCrunch",
+            "description": "Bumble says it’s moving beyond swiping and deeper into real-world social experiences as it courts Gen Z users.",
+            "url": "https://techcrunch.com/2026/08/06/bumble-teases-a-swipe-free-future-as-it-doubles-down-on-irl-meetups/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/04/Bumble-new-logo.jpg?resize=1200,810",
+            "publishedAt": "2026-08-06T17:40:53Z",
+            "content": "Tinder isn’t the only major dating app turning away from the swipe and toward real-world events to attract Gen Z users who’ve grown tired of traditional online dating. On Wednesday, Bumble touted the… [+3125 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ivan Mehta",
+            "title": "OpenAI brings unlimited ChatGPT text chats to free users | TechCrunch",
+            "description": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
+            "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205105208.jpg?resize=1200,800",
+            "publishedAt": "2026-08-06T17:35:28Z",
+            "content": "OpenAI is removing limits on text-based chats for all users on ChatGPT, which recently crossed the 1 billion weekly user mark, the company announced today.\r\nThe new GPT-5.6 Luna model will power this… [+1513 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ram Iyer",
+            "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company | TechCrunch",
+            "description": "Taking vibe-coding a step further, Naïve claims its infra can automate most of the work in setting up and running a business.",
+            "url": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2082335389.jpg?resize=1200,857",
+            "publishedAt": "2026-08-06T17:01:26Z",
+            "content": "Developers detest drudgery. The entire field of programming is proof of how hard people will work to automate away the boring tasks involved in building things. And, as vibe-coding has proved, they’v… [+5392 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Ana Maria Constantin",
+            "title": "Google Cloud is booming by selling the AI chips its own researchers can’t get",
+            "description": "Google Cloud grew 82% by renting TPUs to labs like Anthropic and Mirendil, even as its own researchers say they can't get compute, and keep leaving.",
+            "url": "https://thenextweb.com/news/google-cloud-tpu-compute-tension-researchers-anthropic",
+            "urlToImage": "https://media.thenextweb.com/2026/04/google-cloud-750m-partner-fund-agentic-ai.jpg",
+            "publishedAt": "2026-08-06T16:52:22Z",
+            "content": "Google is having the best and worst month of its AI life at once. Its cloud arm just grew 82% in a quarter, and the researchers who made the company an AI pioneer keep leaving. The two facts are conn… [+2699 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Lorenzo Franceschi-bicchierai",
+            "title": "Hacker pleads guilty to stealing data from more than 165 Snowflake customers | TechCrunch",
+            "description": "Connor Moucka pled guilty to hacking and stealing data from more than 165 Snowflake customers, which net him and his accomplices more than $2.5 million in ransom payments.",
+            "url": "https://techcrunch.com/2026/08/06/hacker-pleads-guilty-to-stealing-data-from-more-than-165-snowflake-customers/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/11/snowflake-data-breaches.jpg?resize=1200,800",
+            "publishedAt": "2026-08-06T16:45:29Z",
+            "content": "Connor Moucka, a 26-year-old Canadian citizen, has pled guilty to hacking more than 165 companies, stealing billions of records, and extorting several companies and individuals. \r\nOn Wednesday, the U… [+1521 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Aisha Malik",
+            "title": "TikTok lays off 250 employees, shutters its Nashville office | TechCrunch",
+            "description": "The social media giant is shuttering an office that housed some members of TikTok’s content-moderation team.",
+            "url": "https://techcrunch.com/2026/08/06/tiktok-lays-off-250-employees-shutters-its-nashville-office/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259084458.jpg?resize=1200,801",
+            "publishedAt": "2026-08-06T16:09:44Z",
+            "content": "TikTok is laying off 250 employees and closing its Nashville office, which housed some members of TikToks content-moderation team. The news was first reported by The New York Times.\r\nZanna Crowley, a… [+581 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Aisha Malik",
+            "title": "Google Wallet now lets parents set up secure balances for their kids | TechCrunch",
+            "description": "The tech giant says the new feature will allow parents to teach their kids healthy financial habits while maintaining oversight over their child's spending with built-in safeguards.",
+            "url": "https://techcrunch.com/2026/08/06/google-wallet-now-lets-parents-set-up-secure-balances-for-their-kids/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2190936791.jpg?resize=1200,800",
+            "publishedAt": "2026-08-06T16:01:50Z",
+            "content": "Google announced on Thursday that Google Wallet will now allow parents to set up a secure balance for children under 18. The tech giant says the new feature is designed to help parents teach healthy … [+1815 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Amanda Silberling",
+            "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking | TechCrunch",
+            "description": "This generation of twentysomethings is so disillusioned with swipe-based dating apps that they'll try literally anything else — even an AI matchmaker.",
+            "url": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/08/ditto-ai-app.jpg?resize=1200,675",
+            "publishedAt": "2026-08-06T15:55:28Z",
+            "content": "This generation of twentysomethings is so disillusioned with swipe-based dating apps that they’ll try literally anything else — even an AI matchmaker. After dropping out of UC Berkeley, Ditto co-foun… [+4652 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Sean O'kane",
+            "title": "Tesla and SpaceX will invest $16.8B to start building 'Terafab' chip factory in Texas | TechCrunch",
+            "description": "After months of speculation, the companies formally announced the massive project will happen just north of Houston.",
+            "url": "https://techcrunch.com/2026/08/06/tesla-and-spacex-will-invest-16-8b-to-start-building-terafab-chip-factory-in-texas/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/08/2026_08_05_terafab_01_c491ff0b4d.jpg?resize=1200,675",
+            "publishedAt": "2026-08-06T15:22:37Z",
+            "content": "Tesla and SpaceX said Thursday that “Terafab,” the advanced chip factory they are jointly developing, will be built in Grimes County, Texas, outside Houston, and that they will make an initial invest… [+3059 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Sarah Perez",
+            "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
+            "description": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an Apple manager to access a former engineer’s iCloud account after he left the company —u…",
+            "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
+            "publishedAt": "2026-08-06T15:10:32Z",
+            "content": "OpenAI’s motion to dismiss Apple’s trade secrets lawsuit, along with newly filed exhibits, reveals the company’s legal defense strategy. Rather than focusing on whether former Apple employees working… [+2951 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Lauren Forristal",
+            "title": "eBay continues to bet on live shopping after record quarter | TechCrunch",
+            "description": "eBay touted an increase in eBay Live's gross merchandise volume as it plans to expand it to more international markets in the coming weeks and months.",
+            "url": "https://techcrunch.com/2026/08/06/ebay-continues-to-bet-on-live-shopping-after-record-quarter/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-1133588371-e1736345274842.jpg?resize=1200,734",
+            "publishedAt": "2026-08-06T14:18:58Z",
+            "content": "As eBay tries to keep up with competitors like Whatnot and TikTok Shop, the online marketplace is making a bigger push into live shopping after seeing record results. \r\nDuring its second-quarter earn… [+2407 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Ana Maria Constantin",
+            "title": "Apple’s Private Relay is supposed to hide your IP. Researchers found three ways it doesn’t",
+            "description": "Researchers found three WebKit flaws that leak your real IP address through Apple's iCloud Private Relay, exposed by any site that supports passkeys.",
+            "url": "https://thenextweb.com/news/apple-private-relay-ip-leak-webkit-passkeys",
+            "urlToImage": "https://media.thenextweb.com/2026/08/iphone-apple.jpg",
+            "publishedAt": "2026-08-06T13:32:17Z",
+            "content": "Apples Private Relay is supposed to hide your IP address. Researchers have found three ways it does not.\r\nThe paid feature, part of an iCloud+ subscription, masks your real IP address while you brows… [+3359 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ivan Mehta",
+            "title": "Amid legal battles, Suno says it will start watermarking songs | TechCrunch",
+            "description": "Suno's watermarking feature comes as the company is fighting legal battles on several fronts.",
+            "url": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/07/mikey-shulman-2159558534.jpg?resize=1200,942",
+            "publishedAt": "2026-08-06T13:31:57Z",
+            "content": "Suno, the service that allows users to create AI-generated songs, today announced new tools to mark tracks made on its platform, limit downloads, and update community guidelines to prevent copycat so… [+2654 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Rebecca Bellan",
+            "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI | TechCrunch",
+            "description": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and AI development.",
+            "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2266466589.jpg?w=1024",
+            "publishedAt": "2026-08-06T13:02:18Z",
+            "content": "AI lab Mirendil has signed a multi-year partnership with Google Cloud to source compute capacity for its self-improving AI research, TechCrunch has exclusively learned. \r\nThe deal mirrors two trends … [+3155 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Sean O'kane",
+            "title": "Ford's new electric truck, 'Fathom', starts at $28,350 | TechCrunch",
+            "description": "Due in \"fall 2027,\" Ford said Thursday that it won't reveal what Fathom looks like until early next year.",
+            "url": "https://techcrunch.com/2026/08/06/fords-new-electric-truck-fathom-starts-at-28350/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/08/Ford-Fathom-Hero-Still-16x9_v2.jpg?resize=1200,675",
+            "publishedAt": "2026-08-06T13:02:12Z",
+            "content": "Ford’s next-generation electric truck will be called Fathom, and it will start at $28,350 when it goes on sale in 2027, the company said on Thursday.\r\nA “destination and delivery” fee will bring that… [+4243 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Lauren Forristal",
+            "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce | TechCrunch",
+            "description": "The startup's platform predicts what product a shopper wants next, learn their general taste, and fine-tune continuously based on what they do in real time.",
+            "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/08/Malachyte.jpg?w=1200",
+            "publishedAt": "2026-08-06T13:02:12Z",
+            "content": "Sidd Motwani, Ian Anderson and Shivaditya Sinha spent years building the behavioral intelligence infrastructure behind Spotify’s recommendation engine. Called Vector AI, the system is designed to pre… [+3243 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Ana-maria Stanciuc",
+            "title": "China opens a cybersecurity review into Palo Alto Networks",
+            "description": "China has launched a cybersecurity review into Palo Alto Networks, escalating a running standoff with US security firms and turning cyber policy into another front in the tech war.",
+            "url": "https://thenextweb.com/news/china-cybersecurity-review-palo-alto-networks",
+            "urlToImage": "https://media.thenextweb.com/2026/04/China-vs-USA.jpg",
+            "publishedAt": "2026-08-06T12:41:50Z",
+            "content": "China has trained its regulators on one of Americas biggest security companies. Authorities have launched a cybersecurity review into Palo Alto Networks, a move that deepens an already tense standoff… [+3318 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Aisha Malik",
+            "title": "Google Maps adds agentic features, including food ordering and hotel bookings | TechCrunch",
+            "description": "The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks.",
+            "url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2202707012.jpg?resize=1200,800",
+            "publishedAt": "2026-08-06T12:30:00Z",
+            "content": "Google announced on Thursday that Google Maps’ “Ask Maps” feature is gaining a slew of new agentic capabilities, including the ability to order food, book hotels, and find event tickets. The tech gia… [+2763 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ivan Mehta",
+            "title": "Omilia raises $67M to scale its customer support platform | TechCrunch",
+            "description": "The Series B is the company's second fundraise since it last raised capital in 2020. In that time, it has increased its ARR by 10x to $60 million.",
+            "url": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/08/Self-Learning-Agents-Vertical.jpeg?resize=1200,789",
+            "publishedAt": "2026-08-06T12:00:00Z",
+            "content": "The customer support industry has seen a massive influx of startups like Sierra, Decagon and Parloa trying to infuse AI into automating customer calls, chat and messages so companies can handle more … [+2961 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Cristian Dina",
+            "title": "Google may spend $1.5bn on a 35-person startup to catch up on AI coding",
+            "description": "Google wants its AI to code better. It may have found a shortcut, and it runs through a startup of about 35 people. The company is in talks with Mechanize, a San Francisco startup that trains AI agents to write software, Business Insider reported. The deal wo…",
+            "url": "https://thenextweb.com/news/google-may-spend-1-5bn-on-a-35-person-startup-to-catch-up-on-ai-coding",
+            "urlToImage": "https://media.thenextweb.com/2026/07/google-earth-ai-image-generation-rollback-fake-satellite-imagery.jpg",
+            "publishedAt": "2026-08-06T11:32:07Z",
+            "content": "Google wants its AI to code better. It may have found a shortcut, and it runs through a startup of about 35 people.\r\nThe company is in talks with Mechanize, a San Francisco startup that trains AI age… [+4174 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Ana Maria Constantin",
+            "title": "Meta enters the AI coding wars with Muse Code and a price to match",
+            "description": "Meta has launched Muse Code, a terminal coding agent powered by Muse Spark 1.2, undercutting rivals with a cut-price data-sharing tier as the AI coding market crowds.",
+            "url": "https://thenextweb.com/news/meta-muse-code-ai-coding-agent-launch",
+            "urlToImage": "https://media.thenextweb.com/2026/04/Meta.jpg",
+            "publishedAt": "2026-08-06T08:22:28Z",
+            "content": "Meta wants a seat at the table developers actually use. The company has launched Muse Code, an AI coding agent that runs in the terminal and takes direct aim at the fast-growing market for software t… [+3298 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Sean O'kane",
+            "title": "Nikita Bier steps down as X's head of product | TechCrunch",
+            "description": "The serial entrepreneur is stepping down a little over a year after taking the \"24/7 job\" of overseeing X.",
+            "url": "https://techcrunch.com/2026/08/05/nikita-bier-steps-down-as-xs-head-of-product/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/11/X-and-Threads-GettyImages-1763609384.jpeg?resize=1200,832",
+            "publishedAt": "2026-08-05T21:32:13Z",
+            "content": "Nikita Bier has stepped down as head of product at X, Elon Musk’s social media platform, after a little more than a year in the role. \r\nBier wrote Wednesday that he thinks it’s “time to pass the torc… [+937 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Sean O'kane",
+            "title": "Travis Kalanick's robotics startup Atoms taps former Uber finance chief as CFO | TechCrunch",
+            "description": "Kalanick continues to get the band back together, after acquiring Anthony Levandowski's autonomy startup, and even soliciting investment from Uber itself.",
+            "url": "https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/08/travis-kalanick-fii.jpg?resize=1200,800",
+            "publishedAt": "2026-08-05T21:29:08Z",
+            "content": "Another former Uber executive is joining Travis Kalanick’s robotics and industrial AI startup Atoms, just a few weeks after it raised $1.7 billion.\r\nGautam Gupta, the former finance chief under Kalan… [+2550 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Lucas Ropek",
+            "title": "Meta launches Muse Code, an AI agent for large code bases | TechCrunch",
+            "description": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
+            "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-2235448056.jpg?resize=1200,800",
+            "publishedAt": "2026-08-05T21:21:28Z",
+            "content": "Meta, considered a bit of a straggler in the AI harnesses realm, is making strides to catch up. This week, the company released a new terminal coding agent aimed at programmers looking for assistance… [+1460 chars]"
+        }
+    ]
+}
